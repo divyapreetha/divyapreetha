@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Preetha - @divyapreetha
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m an Ethereum Full Stack Developer
 - 💞️ I’m looking to collaborate on Blockchain Development
 - 📫 How to reach me .. jesusdiv18@gmail.com
 
